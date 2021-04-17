@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, 👋
 
-<!--
-**mrusins/mrusins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Māris and I'm software developer.
 
-Here are some ideas to get you started:
+### Knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+->PHP
+
+->TypeScript
+
+->Laravel
+
+->MySQL
+
+->CSS
+
+### Contact
+
+linkedin.com/in/maris-rusins-83899972 
+
+https://www.instagram.com/mrusins/
+
+https://twitter.com/mrusins
+
+
+
+I'm not afraid of errors. Errors is the sign, that you need to keep learn :)
+
