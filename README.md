@@ -18,9 +18,9 @@ my name is Māris and I'm software developer.
 
 linkedin.com/in/maris-rusins-83899972 
 
-https://www.instagram.com/mrusins/
+instagram.com/mrusins/
 
-https://twitter.com/mrusins
+twitter.com/mrusins
 
 
 
