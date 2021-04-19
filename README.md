@@ -16,7 +16,7 @@ my name is Māris and I'm software developer.
 
 ### Contact
 
-linkedin.com/in/maris-rusins-83899972 
+linkedin.com/in/maris-rusins/
 
 instagram.com/mrusins/
 
