@@ -1,6 +1,12 @@
-### Hi there, 👋
+### Hi, 👋
 
-my name is Māris and I'm software developer.
+my name is Māris and I'm software developer. I'll be glad, if you'll follow my code!
+
+### MyLeatestProjects
+
+**Currency exchange calculator**
+
+[![image calc](https://github.com/mrusins/Currency_exchange/blob/master/public/img/redme_s.png)](https://github.com/mrusins/Currency_exchange)
 
 ### Knowledge
 
@@ -16,11 +22,12 @@ my name is Māris and I'm software developer.
 
 ### Contact
 
-linkedin.com/in/maris-rusins/
 
-instagram.com/mrusins/
+-> [**linkedin**](https://linkedin.com/in/maris-rusins/)
 
-twitter.com/mrusins
+-> [**instagram**](https://instagram.com/mrusins/)
+
+-> [**twitter**](https://twitter.com/mrusins)
 
 
 
