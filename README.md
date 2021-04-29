@@ -5,30 +5,30 @@ my name is Māris and I'm software developer. I'll be glad, if you'll follow my 
 ### MyLeatestProjects
 
 
-:arrow_right:[**Currency exchange calculator**](https://github.com/mrusins/Currency_exchange)
+:hammer_and_wrench:[**Currency exchange calculator**](https://github.com/mrusins/Currency_exchange)
 
 [![image calc](https://github.com/mrusins/Currency_exchange/blob/master/public/img/redme_s.png)](https://github.com/mrusins/Currency_exchange)
 
 ### Knowledge
 
-->PHP
+:briefcase:PHP
 
-->TypeScript
+:briefcase:TypeScript
 
-->Laravel
+:briefcase:Laravel
 
-->MySQL
+:briefcase:MySQL
 
-->CSS
+:briefcase:CSS
 
 ### Contact
 
 
--> [**linkedin**](https://linkedin.com/in/maris-rusins/)
+:arrow_right: [**linkedin**](https://linkedin.com/in/maris-rusins/)
 
--> [**instagram**](https://instagram.com/mrusins/)
+:arrow_right: [**instagram**](https://instagram.com/mrusins/)
 
--> [**twitter**](https://twitter.com/mrusins)
+:arrow_right: [**twitter**](https://twitter.com/mrusins)
 
 
 
