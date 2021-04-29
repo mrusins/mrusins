@@ -4,7 +4,8 @@ my name is Māris and I'm software developer. I'll be glad, if you'll follow my 
 
 ### MyLeatestProjects
 
-**Currency exchange calculator**
+
+:arrow_right:[**Currency exchange calculator**](https://github.com/mrusins/Currency_exchange)
 
 [![image calc](https://github.com/mrusins/Currency_exchange/blob/master/public/img/redme_s.png)](https://github.com/mrusins/Currency_exchange)
 
