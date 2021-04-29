@@ -9,6 +9,10 @@ my name is Māris and I'm software developer. I'll be glad, if you'll follow my 
 
 [![image calc](https://github.com/mrusins/Currency_exchange/blob/master/public/img/redme_s.png)](https://github.com/mrusins/Currency_exchange)
 
+:hammer_and_wrench: [**MiniTinder**](https://github.com/mrusins/tinder)
+
+[![image calc](https://github.com/mrusins/tinder/blob/master/public/screenshoots/tinder_s.png)](https://github.com/mrusins/tinder)
+
 ### Knowledge
 
 :briefcase: PHP
