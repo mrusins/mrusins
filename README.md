@@ -13,6 +13,10 @@ my name is Māris and I'm software developer. I'll be glad, if you'll follow my 
 
 [![image calc](https://github.com/mrusins/tinder/blob/master/public/screenshoots/tinder_s.png)](https://github.com/mrusins/tinder)
 
+:hammer_and_wrench: [**Currency selector**](https://github.com/mrusins/currency-selector)
+
+[![image calc](https://github.com/mrusins/currency-selector/blob/master/public/screenshoots/currencySelector_s.png)](https://github.com/mrusins/currency-selector)
+
 ### Knowledge
 
 :briefcase: PHP
@@ -25,7 +29,7 @@ my name is Māris and I'm software developer. I'll be glad, if you'll follow my 
 
 :briefcase: CSS
 
-### Contact
+### About me
 
 
 :arrow_right: [**linkedin**](https://linkedin.com/in/maris-rusins/)
