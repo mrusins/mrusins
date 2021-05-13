@@ -1,6 +1,6 @@
 ### Hi, 👋
 
-my name is Māris and I'm software developer. I'll be glad, if you'll follow my code!
+my name is Māris and I'm software developer. I'll be glad, if you follow my code!
 
 ### MyLeatestProjects
 
